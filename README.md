@@ -1,6 +1,6 @@
 # How to run
 
-Use this repo is pretty simple:
+Using this repo is pretty simple:
 
 1. Run `yarn install`
 2. Run `yarn dev`
